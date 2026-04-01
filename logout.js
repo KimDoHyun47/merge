@@ -9,3 +9,9 @@ function logout2() {
 }
 
 console.log(logout2());
+
+function logout3() {
+  return "logout3";
+}
+
+console.log(logout3());
